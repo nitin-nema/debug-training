@@ -21,4 +21,3 @@ jobs:
       run: npm test
     - name: Broken Step Example
       run: echo "This fails"
-      run: echo "Wrong syntax"
